@@ -6,4 +6,21 @@ I'm duskmoon (Campbell He), a common undergraduate student at Tsinghua Universit
 
 > Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="wakatime_language_data" src="https://wakatime.com/share/@e5e2fe14-c216-4845-b472-4e35b91b3b08/eb0cd088-3a98-424c-b15d-c41465206309.svg" width="494"/>
+## My tech stack
+
+### Languages
+
+| Type | Languages |
+|-|-|
+| Currently Using | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
+| Used to use | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
+### Frameworks and Libraries
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### Working on
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu(wsl)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
