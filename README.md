@@ -26,3 +26,7 @@ I'm duskmoon (Campbell He), a common undergraduate student at Tsinghua Universit
 ![Mac](https://img.shields.io/badge/mac%20os%20(M1)-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## Currently Working On
+
+[![os-tutorial-book](https://github-readme-stats.duskmoon.vercel.app/api/pin/?username=duskmoon314&repo=os-tutorial-book-2021Autumn)](https://github.com/duskmoon314/os-tutorial-book-2021Autumn) [![rcore-tutorial-book](https://github-readme-stats.duskmoon.vercel.app/api/pin/?username=duskmoon314&repo=rCore-Tutorial-Book-2021Autumn)](https://github.com/duskmoon314/rCore-Tutorial-Book-2021Autumn)
