@@ -29,4 +29,4 @@ I'm duskmoon (Campbell He), a common undergraduate student at Tsinghua Universit
 
 ## Currently Working On
 
-[![os-tutorial-book](https://github-readme-stats.duskmoon.vercel.app/api/pin/?username=duskmoon314&repo=os-tutorial-book-2021Autumn)](https://github.com/duskmoon314/os-tutorial-book-2021Autumn) [![rcore-tutorial-book](https://github-readme-stats.duskmoon.vercel.app/api/pin/?username=duskmoon314&repo=rCore-Tutorial-Book-2021Autumn)](https://github.com/duskmoon314/rCore-Tutorial-Book-2021Autumn)
+[![d1-pac](https://github-readme-stats.duskmoon.vercel.app/api/pin/?username=duskmoon314&repo=d1-pac)](https://github.com/duskmoon314/d1-pac)
