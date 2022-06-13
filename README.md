@@ -30,3 +30,4 @@ I'm duskmoon (Campbell He), a common undergraduate student at Tsinghua Universit
 ## Currently Working On
 
 [![d1-pac](https://github-readme-stats.duskmoon.vercel.app/api/pin/?username=duskmoon314&repo=d1-pac)](https://github.com/duskmoon314/d1-pac)
+[![k510-pac](https://github-readme-stats.duskmoon.vercel.app/api/pin/?username=duskmoon314&repo=k510-pac)](https://github.com/duskmoon314/k510-pac)
