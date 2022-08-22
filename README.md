@@ -2,7 +2,7 @@
 
 I'm duskmoon (Campbell He), a common PhD candidate at Tsinghua University
 
-![duskmoon's metrics](./github-metrics.svg)
+[![duskmoon's metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 ![duskmoon's github stats](https://github-readme-stats.duskmoon.vercel.app/api?username=duskmoon314&theme=tokyonight&show_icons=true)
 
