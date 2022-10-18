@@ -1,6 +1,6 @@
 # Hello, Profile README
 
-I'm duskmoon (Campbell He), a common PhD candidate at Tsinghua University
+I'm duskmoon (Campbell He), a common PhD student at Tsinghua University
 
 [![duskmoon's metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
 
