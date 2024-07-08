@@ -2,11 +2,12 @@
 
 I'm duskmoon (Campbell He), a common PhD student at Tsinghua University
 
-[![duskmoon's metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
-
-![duskmoon's github stats](https://github-readme-stats.duskmoon.vercel.app/api?username=duskmoon314&theme=tokyonight&show_icons=true)
+![duskmoon's github stats](https://github-readme-stats.duskmoon.vercel.app/api?username=duskmoon314&show_icons=true)
+![duskmoon's most used languages](https://github-readme-stats.duskmoon.vercel.app/api/top-langs?username=duskmoon314&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut)
 
 > Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![duskmoon's metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 ## My tech stack
 
@@ -14,8 +15,9 @@ I'm duskmoon (Campbell He), a common PhD student at Tsinghua University
 
 | Type | Languages |
 |-|-|
-| Currently Using | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
-| Used to use | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| Currently Using | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| Used to use | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| Learning | ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) |
 
 ### Working on
 
@@ -24,8 +26,3 @@ I'm duskmoon (Campbell He), a common PhD student at Tsinghua University
 ![Mac](https://img.shields.io/badge/mac%20os%20(M1)-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## Currently Working On
-
-[![d1-pac](https://github-readme-stats.duskmoon.vercel.app/api/pin/?username=duskmoon314&repo=d1-pac)](https://github.com/duskmoon314/d1-pac)
-[![k510-pac](https://github-readme-stats.duskmoon.vercel.app/api/pin/?username=duskmoon314&repo=k510-pac)](https://github.com/duskmoon314/k510-pac)
