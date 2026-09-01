@@ -2,10 +2,10 @@
 
 I'm duskmoon (Campbell He), a common PhD student at Tsinghua University
 
-![duskmoon's github stats](https://github-readme-stats.duskmoon.vercel.app/api?username=duskmoon314&show_icons=true)
-![duskmoon's most used languages](https://github-readme-stats.duskmoon.vercel.app/api/top-langs?username=duskmoon314&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut)
+![duskmoon's github stats](https://github-stats-extended.vercel.app/api?username=duskmoon314&show_icons=true&include_all_commits=true&theme=transparent)
+![duskmoon's most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=duskmoon314&layout=compact&langs_count=8&theme=transparent)
 
-> Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+> Powered by [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)
 
 [![duskmoon's metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
 
